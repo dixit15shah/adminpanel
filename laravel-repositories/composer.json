@@ -1,0 +1,12 @@
+{
+    "name": "evolutionco/laravel-repositories",
+    "description": "A Laravel repository package.",
+    "type": "library",
+    "version": "1.0.0", 
+    "autoload": {
+        "psr-4": {
+            "Evolutionco\\Repositories\\": "src/Repositories/"
+        }
+    },
+    "require": {}
+}
